@@ -161,7 +161,8 @@ background: linear-gradient(135deg, var(--accent), #16a34a);
     padding: 16px;
   }
   .controls {
+    margin-top: 8px;
     gap: 8px;
   }
-  .search input {
-    padding: 12px 40px 12px 44px;
+ 
+}
