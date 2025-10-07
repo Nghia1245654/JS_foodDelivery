@@ -156,3 +156,12 @@ background: linear-gradient(135deg, var(--accent), #16a34a);
     min-height: 38px;
     margin: 13px 0px;
 }
+@media (max-width: 768px) {
+  .container {
+    padding: 16px;
+  }
+  .controls {
+    gap: 8px;
+  }
+  .search input {
+    padding: 12px 40px 12px 44px;
