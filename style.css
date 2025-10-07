@@ -164,5 +164,9 @@ background: linear-gradient(135deg, var(--accent), #16a34a);
     margin-top: 8px;
     gap: 8px;
   }
+  img{
+    max-width: 100%;
+    height: auto; 
+  }
  
 }
